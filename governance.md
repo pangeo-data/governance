@@ -16,8 +16,8 @@ https://github.com/pangeo-data/governance
 To become eligible for being a Steering Council Member an individual must be a Project Contributor who has produced
 contributions that are substantial in quality and quantity, and sustained over at least six months. Potential Council Members 
 are nominated by existing Council members and voted upon by the existing Council after asking if the potential Member is 
-interested and willing to serve in that capacity. The Council will be initially formed from the set of existing Core 
-Developers who, as of late 2014, have been significantly active over the last year.
+interested and willing to serve in that capacity. The Council will be initially formed from the set of existing most active
+Project Contributors as of August, 2018.
 
 When considering potential Members, the Council will look at candidates with a comprehensive view of their contributions. This
 will include but is not limited to code, code review, infrastructure work, mailing list and chat participation, community 
