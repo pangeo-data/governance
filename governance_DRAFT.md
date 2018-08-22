@@ -25,7 +25,7 @@ The Project Community consists of all Contributors and Users of The Project. Con
 
 ### The Steering Council
 
-The Project will have a Steering Council that consists of Project Contributors who have produced contributions that are substantial in quality and quantity, and sustained over at least one year. The overall role of the Council is to ensure, through taking input from the Community, the long-term well-being of The Project, both technically and as a community. As The Project draws its strength from representing the Community, it strives to avoid fragmentation of the comminity into separate projects, if possible.
+The Project will have a Steering Council that consists of Project Contributors who have produced contributions that are substantial in quality and quantity, and sustained over at least one year. The overall role of the Council is to ensure, through taking input from the Community, the long-term well-being of The Project, both technically and as a community. As The Project draws its strength from representing the Community, it strives to avoid fragmentation of the community into separate projects, if possible.
 
 During the everyday Project activities, Council Members participate in all discussions, code review and other Project activities as peers with all other Contributors and the Community. In these everyday activities, Council Members do not have any special power or privilege through their membership on the Council. However, it is expected that because of the quality and quantity of their contributions and their expert knowledge of The Project Software and Services that Council Members will provide useful guidance, both technical and in terms of Project direction, to potentially less experienced Contributors.
 
