@@ -11,7 +11,7 @@ https://github.com/pangeo-data/governance
 
 ### The Steering Council
 
-The Project will have a Steering Council that consists of Project Contributors who have produced contributions that are substantial in quality and quantity, and sustained over at least one year. The overall role of the Council is to ensure, through taking input from the Community, the long-term well-being of the project, both technically and as a community. As Pangeo draws its strength from representing the Community, it strives to avoid fragmentation of the comminity into separate projects, if possible.
+The Project will have a Steering Council that consists of Project Contributors who have produced contributions that are substantial in quality and quantity, and sustained over at least one year. The overall role of the Council is to ensure, through taking input from the Community, the long-term well-being of the project, both technically and as a community. As The Project draws its strength from representing the Community, it strives to avoid fragmentation of the comminity into separate projects, if possible.
 
 During the everyday project activities, council members participate in all discussions, code review and other project activities as peers with all other Contributors and the Community. In these everyday activities, Council Members do not have any special power or privilege through their membership on the Council. However, it is expected that because of the quality and quantity of their contributions and their expert knowledge of the Project Software and Services that Council Members will provide useful guidance, both technical and in terms of project direction, to potentially less experienced contributors.
 
