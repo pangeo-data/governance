@@ -2,7 +2,7 @@
 
 Pangeo values the safety and security of all of our members and, 
 because of that, we will not tolerate any form of harassment or 
-discrimination, to this end in this page we:
+discrimination. To this end in this page we:
 
 * Provide a statement of intent and code of conduct for members of our community;
 * Outline and define forms of harassment and discrimination;
