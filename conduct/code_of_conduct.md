@@ -54,7 +54,7 @@ outside these spaces may affect a person's ability to participate within them.
    
 * **3. Consider Impact vs. Intent**.    
    Disagreements, both social and
-   technical, happen all the time and Pangeo is no exception. People perceive their own behaviors very differently than others perceive them. What motivates one person may cause stress for another. Few steps worth remembering:
+   technical, happen all the time and Pangeo is no exception. People perceive their own behaviors very differently than others perceive them. What motivates one person may cause stress for another. A few steps worth remembering include the following:
 
    * Other people do not see things the same way you do, do not feel the same as you, or interpret the world the way you do. Consider different people’s perspectives on things like change, drive, structure, process, big picture, and small details.
    * Ask for feedbacks and listen to them. 
