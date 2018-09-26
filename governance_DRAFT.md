@@ -18,14 +18,15 @@ https://github.com/pangeo-data/pangeo/graphs/contributors
 
 There are also many other Contributors listed in the logs of other repositories of the Pangeo Project.
 
-The Project Community consists of all Contributors and Users of The Project. Contributors work on behalf of and are responsible to the larger Project Community and we strive to keep the barrier between Contributors and Users as low as possible.
+The collection of all Contributors to The Project and stakeholders in The Project, including Users and Funders, is called The Community.
+Contributors work on behalf of and are responsible to the larger Project Community and we strive to keep the barrier between Contributors and Users as low as possible.
 
 
 ## Governance
 
 ### The Steering Council
 
-The Project will have a Steering Council that consists of Project Contributors who have produced contributions that are substantial in quality and quantity, and sustained over at least one year. The overall role of the Council is to ensure, through taking input from the Community, the long-term well-being of The Project, both technically and as a community. As The Project draws its strength from representing the Community, it strives to avoid fragmentation of the community into separate projects, if possible.
+The Project will have a Steering Council that consists of Project Contributors who have produced contributions that are substantial in quality and quantity, and sustained over at least one year. The overall role of the Council is to ensure, through taking input from the Community, the long-term well-being of The Project, both technically and as a community. As The Project draws its strength from representing the Community, it strives to avoid fragmentation of the Community into separate projects, if possible.
 
 During the everyday Project activities, Council Members participate in all discussions, code review and other Project activities as peers with all other Contributors and the Community. In these everyday activities, Council Members do not have any special power or privilege through their membership on the Council. However, it is expected that because of the quality and quantity of their contributions and their expert knowledge of The Project Software and Services that Council Members will provide useful guidance, both technical and in terms of Project direction, to potentially less experienced Contributors.
 
@@ -35,11 +36,11 @@ The Steering Council and its Members play a special role in certain situations. 
 * Make decisions about strategic collaborations with other organizations or individuals.
 * Make decisions about specific technical issues, features, bugs and pull requests. They are the primary mechanism of guiding the code review process and merging pull requests.
 * Make decisions about the Services that are run by The Project and manage those Services for the benefit of The Project and Community.
-* Make decisions when regular community discussion doesn’t produce consensus on an issue in a reasonable time frame.
+* Make decisions when regular Community discussion doesn’t produce consensus on an issue in a reasonable time frame.
 
-Outcomes and decisions should be clearly communicated to the community. This can take three different forms: 
+Outcomes and decisions should be clearly communicated to the Community. This can take three different forms: 
 
-* New challenges for Pangeo will be detailed as a GitHub issue for the community to discuss.
+* New challenges for Pangeo will be detailed as a GitHub issue for the Community to discuss.
 * Resolved technical deadlocks will result in an explanation on the relevant issue and/or closure of the relevant pull request.
 * Other decisions will be detailed as a narrative blog post.
 
