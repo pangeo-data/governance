@@ -20,7 +20,8 @@ communities, from research and education, to journalism, industry and
 beyond.
 
 Pangeo is dedicated to providing a respectful, harassment-free community for everyone. 
-We do not tolerate harassment or bullying of any community member in any form. This applies equally to founders, developers, mentors and new community members, 
+We do not tolerate harassment or bullying of any community member in any form. 
+This applies equally to founders, developers, mentors and new community members, 
 in all spaces managed by Pangeo. This includes the mailing lists,
 our GitHub organizations, our chat rooms, in-person events, and any other
 forums created by the project team. In addition, violations of this code
@@ -54,9 +55,15 @@ outside these spaces may affect a person's ability to participate within them.
    
 * **3. Consider Impact vs. Intent**.    
    Disagreements, both social and
-   technical, happen all the time and Pangeo is no exception. People perceive their own behaviors very differently than others perceive them. What motivates one person may cause stress for another. A few steps worth remembering include the following:
+   technical, happen all the time and Pangeo is no exception. 
+   People perceive their own behaviors very differently than others perceive them. 
+   What motivates one person may cause stress for another. 
+   A few steps worth remembering include the following:
 
-   * Other people do not see things the same way you do, do not feel the same as you, or interpret the world the way you do. Consider different people’s perspectives on things like change, drive, structure, process, big picture, and small details.
+   * Other people do not see things the same way you do, 
+   do not feel the same as you, or interpret the world the way you do. 
+   Consider different people’s perspectives on things like change, 
+   drive, structure, process, big picture, and small details.
    * Ask for feedbacks and listen to them. 
    * Blaming each other doesn’t get us anywhere, while we can learn from mistakes to find better solutions. 
 
@@ -90,7 +97,10 @@ Form of harrassment includes, but is not limited to:
    * Posting sexually explicit or violent material
    * Posting (or threatening to post) other people's personally identifying
      information ("doxing")
-   * Personal insults, especially those related to gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, religion, socioeconomic status, caste or creed;
+   * Personal insults, especially those related to gender, 
+   gender identity and expression, sexual orientation, ability, 
+   physical appearance, body size, race, ethnicity, 
+   religion, socioeconomic status, caste or creed;
    * Unwelcome sexual attention, stalking;
    * Advocating for, or encouraging, any of the above behavior
    * Repeated harassment of others. In general, if someone asks you to stop,
@@ -128,8 +138,12 @@ Manual*](enforcement.md).
 
 ## Periodic Review
 
-Pangeo strives to create a positive and inclusive environment. As such, the Pangeo **leadership team** (update with correct wording) commits to an annual review of the Code of Conduct to ensure that it continues to align with this goal and address the needs of our community.
-Pangeo welcomes feedback from its members. All feedback should be submitted to: [*TODO*](mailto:TODO).
+Pangeo strives to create a positive and inclusive environment. 
+As such, the Pangeo Steering Council commits to an annual review 
+of the Code of Conduct to ensure that it continues to align with 
+this goal and address the needs of our community.
+Pangeo welcomes feedback from its members. 
+Feedback can be submitted to: [*TODO*](mailto:TODO) and to this github repository.
 
 
 ### References
