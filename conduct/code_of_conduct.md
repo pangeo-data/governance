@@ -64,7 +64,7 @@ outside these spaces may affect a person's ability to participate within them.
    do not feel the same as you, or interpret the world the way you do. 
    Consider different people’s perspectives on things like change, 
    drive, structure, process, big picture, and small details.
-   * Ask for feedbacks and listen to them. 
+   * Ask for feedback and listen to them. 
    * Blaming each other doesn’t get us anywhere, while we can learn from mistakes to find better solutions. 
 
 * **4. Moderate your expectations**.    
@@ -90,7 +90,7 @@ free to contact the Code of Conduct Committee at
 ## Forms of harrassment
 
 We do not tolerate harassment or bullying of any community member in any form. 
-Form of harrassment includes, but is not limited to:
+Forms of harrassment include, but is not limited to:
 
    * Violent threats or violent language directed against another person
    * Discriminatory jokes and language
@@ -100,7 +100,7 @@ Form of harrassment includes, but is not limited to:
    * Personal insults, especially those related to gender, 
    gender identity and expression, sexual orientation, ability, 
    physical appearance, body size, race, ethnicity, 
-   religion, socioeconomic status, caste or creed;
+   religion, socioeconomic status, caste or creed
    * Unwelcome sexual attention, stalking;
    * Advocating for, or encouraging, any of the above behavior
    * Repeated harassment of others. In general, if someone asks you to stop,
