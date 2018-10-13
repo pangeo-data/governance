@@ -6,4 +6,4 @@ The initial interim steering council of Pangeo consists of:
 - Ryan Abernathey
 - Kevin Paul
 
-This steering council is expected to be replaced by a non-interim steering council after a nomination and discussion period.
+This steering council is expected to be replaced by a non-interim steering council after a nomination and discussion period, no later than Nov. 15, 2018.
