@@ -52,11 +52,12 @@ strive to keep the barrier between Contributors and Users as low as possible.
 
 The Project will have a Steering Council that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity,
-and sustained over at least one year. The overall role of the Council is to
-ensure, through taking input from the Community, the long-term well-being of The
-Project, both technically and as a community. As The Project draws its strength
-from representing the Community, it strives to avoid fragmentation of the
-Community into separate projects, if possible.
+and sustained over at least one year. The Steering Council should be composed of
+a diverse array of backgrounds, viewpoints and talents. The overall role of the
+Council is to ensure, through taking input from the Community, the long-term
+well-being of The Project, both technically and as a community. As The Project
+draws its strength from representing the Community, it strives to avoid
+fragmentation of the Community into separate projects, if possible.
 
 During the everyday Project activities, Council Members participate in all
 discussions, code review and other Project activities as peers with all other
