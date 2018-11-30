@@ -1,9 +1,13 @@
 # Steering Council Membership
 
-## Interim Steering Council (2018-10-10)
+## 2018-11-27
 
-The initial interim steering council of Pangeo consists of:
-- Ryan Abernathey
-- Kevin Paul
+The Pangeo steering council members are:
 
-This steering council is expected to be replaced by a non-interim steering council after a nomination and discussion period, no later than Nov. 15, 2018.
+- Ryan Abernathey (@rabernat)
+- Joe Hamman (@jhamman)
+- Chiara Lepore (@chiaral)
+- Rachel Prudden (@RPrudden)
+- Niall Robinson (@niallrobinson)
+- Rich Signell (@rsignell-usgs)
+- Amanda Tan (@amanda-tan)
