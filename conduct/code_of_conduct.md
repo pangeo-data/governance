@@ -84,7 +84,7 @@ make it easier to enrich all of us and the communities in which we participate.
 By embracing the following principles, guidelines and actions to follow or
 avoid, you will help us make Pangeo a welcoming and productive community. Feel
 free to contact the Code of Conduct Committee at
-[*TODO*](mailto:TODO) with any questions.
+[pangeo-conduct@googlegroups.com](mailto:pangeo-conduct@googlegroups.com) with any questions.
 
 
 ## Forms of harrassment
@@ -111,7 +111,7 @@ Forms of harrassment include, but is not limited to:
 
 If a member of the community at large engages in behavior which is harassing 
 or discriminatory in any way, once the incident is reported, 
-the [Code of Conduct Committee](mailto:TODO) may take any action they deem 
+the [Code of Conduct Committee](mailto:pangeo-conduct@googlegroups.com) may take any action they deem 
 appropriate listed in the [*Enforcement Manual*](enforcement.md). 
 These actions include, but are not limited to, issuing a warning, 
 requiring an apology, or a permanent or temporary ban from some 
@@ -125,10 +125,10 @@ a timely manner. Code of conduct violations reduce the value of the community
 for everyone and we take them seriously.
 
 You can file a report by emailing
-[*TODO*](mailto:TODO) or by filing out 
-[this form](TODO). The online form gives you the option to keep your report anonymous or request
-that we follow up with you directly. While we cannot follow up on an anonymous
-report, we will take appropriate action.
+[pangeo-conduct@googlegroups.com](mailto:pangeo-conduct@googlegroups.com) or by filing out 
+[this form](https://forms.gle/jDmUokAtzwxwkKQq7). The online form gives you the option to 
+keep your report anonymous or request that we follow up with you directly. While we cannot
+follow up on an anonymous report, we will take appropriate action.
 
 For more details or information on reporting in-person at an event, please see our Reporting
 Guidelines.   
@@ -143,7 +143,7 @@ As such, the Pangeo Steering Council commits to an annual review
 of the Code of Conduct to ensure that it continues to align with 
 this goal and address the needs of our community.
 Pangeo welcomes feedback from its members. 
-Feedback can be submitted to: [*TODO*](mailto:TODO) and to this github repository.
+Feedback can be submitted to: [pangeo-conduct@googlegroups.com](mailto:pangeo-conduct@googlegroups.com) and to this github repository.
 
 
 ### References

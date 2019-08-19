@@ -13,10 +13,9 @@ overheard. They may involve other event staff to ensure your report is managed
 properly. This can be uncomfortable, but we'll handle it respectfully and you
 can bring someone to support you.
 
-**Email**: Send a message to
-[*TODO*](mailto:TODO) and/or a local organizer’s
-email (best to do both to ensure both prompt local response and that the
-regular committee is immediately in the loop).
+**Email**: Send a message to [pangeo-conduct@googlegroups.com](mailto:pangeo-conduct@googlegroups.com)
+and/or a local organizer’s email (best to do both to ensure both prompt local
+response and that the regular committee is immediately in the loop).
 
 Our team will help you contact hotel/venue security, local law enforcement,
 local support (which could include services and transportation as available), or
@@ -24,8 +23,8 @@ otherwise respectfully assist you to feel safe for the duration of the event.
 
 Contact information for the following will be provided per event:
 
-* Email: [*TODO*](mailto:TODO), and/or a local
-  organizer
+* Email: [pangeo-conduct@googlegroups.com](mailto:pangeo-conduct@googlegroups.com),
+  and/or a local organizer
 * Conference organizer mobile number
 * Venue security
 * Law enforcement
@@ -46,5 +45,5 @@ Contact information for the following will be provided per event:
   hostile for any participants.
 
 You also have the option of following the reporting procedure for the online
-community found [here](TODO). Just be aware
+community found [here](reporting_online.md). Just be aware
 the response and action may not be as prompt.
