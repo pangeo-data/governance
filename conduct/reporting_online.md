@@ -1,11 +1,10 @@
 # Pangeo Code of Conduct - Reporting Guide - Online Community
 
 If you believe someone is violating the code of conduct we ask that you report
-it to Pangeo by emailing
-[*TODO*](mailto:TODO) or by completing [this
-form](TODO). All reports will be kept
-confidential. In some cases we may determine that a public statement will need
-to be made. If that's the case, the identities of all involved will remain
+it to Pangeo by emailing [pangeo-conduct@googlegroups.com](mailto:pangeo-conduct@googlegroups.com)
+or by completing [this form](https://forms.gle/jDmUokAtzwxwkKQq7). All reports
+will be kept confidential. In some cases we may determine that a public statement
+will need to be made. If that's the case, the identities of all involved will remain
 confidential unless those individuals instruct us otherwise.
 
 If you believe anyone is in physical danger, please notify appropriate law
@@ -57,9 +56,8 @@ communicate a resolution.
 ## Appealing the Code of Conduct Committee’s Response
 
 To appeal a decision of the Code of Conduct Committee, contact the Pangeo
-Steering Council at
-[*TODO*](mailto:TODO) with your
-appeal and they will review the case.
+Steering Council at [pangeo-steering-council@googlegroups.com](mailto:pangeo-steering-council@googlegroups.com)
+with your appeal and they will review the case.
 
 The Steering Council will gather all relevant information from the Committee
 and provide a resolution within two weeks.  If more time is required, it should
