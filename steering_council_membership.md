@@ -11,3 +11,4 @@ The Pangeo steering council members are:
 - Niall Robinson (@niallrobinson)
 - Rich Signell (@rsignell-usgs)
 - Amanda Tan (@amanda-tan)
+- Guillaume Eynard-Bontemps (@guillaumeeb)
