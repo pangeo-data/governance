@@ -153,9 +153,9 @@ institutional participation in The Project. These are Institutional Partners.
 
 An Institutional Contributor is any individual Project Contributor who
 contributes to The Project as part of their official duties at an Institutional
-Partner. Likewise, an Institutional Council Member is any Project Steering
-Council Member who contributes to The Project as part of their official duties
-at an Institutional Partner.
+Partner sustained over at least six months. Likewise, an Institutional Council
+Member is any Project Steering Council Member who contributes to The Project as
+part of their official duties at an Institutional Partner.
 
 With these definitions, an Institutional Partner is any recognized legal entity
 anywhere in the world that employs at least one Institutional Contributor or
