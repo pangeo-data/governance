@@ -1,7 +1,5 @@
 # Steering Council Membership
 
-## 2018-11-27
-
 The Pangeo steering council members are:
 
 - Ryan Abernathey (@rabernat)
@@ -12,3 +10,4 @@ The Pangeo steering council members are:
 - Rich Signell (@rsignell-usgs)
 - Amanda Tan (@amanda-tan)
 - Guillaume Eynard-Bontemps (@guillaumeeb)
+- Chelle Gentemann (@cgentemann)
