@@ -83,7 +83,7 @@ In particular, the Council may:
   an issue in a reasonable time frame.
 
 Outcomes and decisions should be clearly communicated to the Community. This can
-take three different forms: 
+take three different forms:
 
 * New challenges for Pangeo will be detailed as a GitHub issue for the Community
   to discuss.
@@ -111,17 +111,27 @@ The Project’s overall well-being. We want to encourage a diverse array of
 backgrounds, viewpoints and talents in our team, which is why we explicitly do
 not define code as the sole metric on which Council Membership will be evaluated.
 
-If a Council Member becomes inactive in The Project for a period of one year,
-they will be considered for removal from the Council. Before removal, an
-inactive Member will be approached by the a Council Member to see if they plan
-on returning to active participation. If not they will be removed immediately
-upon a Council vote. If they plan on returning to active participation soon,
-they will be given a grace period of one year. If they don’t return to active
-participation within that time period they will be removed by vote of the
-Council without further grace period. All former Council Members can be
-considered for Membership again at any time in the future, like any other
-Project Contributor. Retired Council Members will be listed on the Project
-website, acknowledging the period during which they were active in the Council.
+There are two mechanisms by which a Council Member may exit the Steering
+Council:
+
+1. Council Members may resign their posting at any time during their tenure on
+   the Steering Council. In order to maintain an active, energetic, and healthy
+   council, Council Members will self-facilitate membership check-ins every 6
+   months to confirm that each member intends on continue their service on the
+   Council.
+2. If a Council Member becomes inactive in The Project for a period of one year,
+   they will be considered for removal from the Council. Before removal, an
+   inactive Member will be approached by the a Council Member to see if they plan
+   on returning to active participation. If not they will be removed immediately
+   upon a Council vote. If they plan on returning to active participation soon,
+   they will be given a grace period of one year. If they don’t return to active
+   participation within that time period they will be removed by vote of the
+   Council without further grace period.
+
+All former Council Members can be considered for Membership again at any time
+in the future, like any other Project Contributor. Retired Council Members
+will be listed on the Project website, acknowledging the period during which
+they were active in the Council.
 
 #### Conflict of Interest
 
