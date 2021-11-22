@@ -97,8 +97,7 @@ Project Contributor who has produced contributions that are substantial in
 quality and quantity, and sustained over at least six months. Potential Council
 Members are nominated by Community Contributors and voted upon by the existing
 Council, after asking if the potential Member is interested and willing to serve
-in that capacity.  The Council will be initially formed from the set of existing
-most active Project Contributors as of August, 2018.
+in that capacity. 
 
 When considering potential Members, the Council will look at candidates with a
 comprehensive view of their contributions. This will include but is not limited
