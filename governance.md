@@ -131,6 +131,13 @@ in the future, like any other Project Contributor. Retired Council Members
 will be listed on the Project website, acknowledging the period during which
 they were active in the Council.
 
+#### Expectations for Council Members
+
+Steering council members are expected to commit to the following activities:
+- Attend a one-hour steering council meeting every quarter.
+- Respond in a timely manner to steering-council-related correspondence.
+- Act as an ambassador for the project in professional contexts.
+
 #### Conflict of Interest
 
 It is expected that Council Members will be employed at a wide range of
