@@ -10,7 +10,6 @@ The Pangeo steering council members are:
 - Chelle Gentemann (@cgentemann)
 - Joe Hamman (@jhamman)
 - Scott Henderson (@scottyhq)
-- Chiara Lepore (@chiaral)
 - Paige Martin (@paigem)
 - Thomas Moore (@Thomas-Moore-Creative)
 - Tina Odaka (@tinaok)
