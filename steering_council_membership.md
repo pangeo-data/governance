@@ -12,6 +12,5 @@ The Pangeo steering council members are:
 - Scott Henderson (@scottyhq)
 - Paige Martin (@paigem)
 - Thomas Moore (@Thomas-Moore-Creative)
-- Tina Odaka (@tinaok)
 - Niall Robinson (@niallrobinson)
 - Rich Signell (@rsignell-usgs)
