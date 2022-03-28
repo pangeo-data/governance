@@ -7,7 +7,6 @@ The Pangeo steering council members are:
 - Anderson Banihirwe (@andersy005)
 - Aimee Barciauskas (@abarciauskas-bgse)
 - Anne Fouilloux (@annefou)
-- Chelle Gentemann (@cgentemann)
 - Joe Hamman (@jhamman)
 - Scott Henderson (@scottyhq)
 - Paige Martin (@paigem)
