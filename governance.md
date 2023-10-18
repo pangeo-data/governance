@@ -57,6 +57,7 @@ Council is to ensure, through taking input from the Community, the long-term
 well-being of The Project, both technically and as a community. As The Project
 draws its strength from representing the Community, it strives to avoid
 fragmentation of the Community into separate projects, if possible.
+The Steering Council will maintain a minimum of three members.
 
 During the everyday Project activities, Council Members participate in all
 discussions, code review and other Project activities as peers with all other
@@ -94,10 +95,10 @@ take three different forms:
 
 To become eligible for being a Steering Council Member an individual must be a
 Project Contributor who has produced contributions that are substantial in
-quality and quantity, and sustained over at least six months. Potential Council
-Members are nominated by Community Contributors and voted upon by the existing
-Council, after asking if the potential Member is interested and willing to serve
-in that capacity. 
+quality and quantity, and sustained over at least six months.
+After confirming the potential Council Member is interested and willing to serve
+in that capacity, Members are nominated by Community Contributors and voted upon
+by the existing Council via majority vote.
 
 When considering potential Members, the Council will look at candidates with a
 comprehensive view of their contributions. This will include but is not limited
@@ -117,14 +118,16 @@ Council:
    council, Council Members will self-facilitate membership check-ins every 6
    months to confirm that each member intends on continue their service on the
    Council.
-2. If a Council Member becomes inactive in The Project for a period of one year,
-   they will be considered for removal from the Council. Before removal, an
-   inactive Member will be approached by the a Council Member to see if they plan
-   on returning to active participation. If not they will be removed immediately
-   upon a Council vote. If they plan on returning to active participation soon,
-   they will be given a grace period of one year. If they don’t return to active
-   participation within that time period they will be removed by vote of the
-   Council without further grace period.
+2. A majority of the existing Council votes to remove a Member.
+
+If a Council Member becomes inactive in The Project for a period of one year,
+they will be considered for removal from the Council. Before removal, an
+inactive Member will be approached by the a Council Member to see if they plan
+on returning to active participation. If not they will be removed immediately
+upon a Council vote. If they plan on returning to active participation soon,
+they will be given a grace period of one year. If they don’t return to active
+participation within that time period they will be removed by vote of the
+Council without further grace period.
 
 All former Council Members can be considered for Membership again at any time
 in the future, like any other Project Contributor. Retired Council Members
@@ -137,6 +140,7 @@ Steering council members are expected to commit to the following activities:
 - Attend a one-hour steering council meeting every quarter.
 - Respond in a timely manner to steering-council-related correspondence.
 - Act as an ambassador for the project in professional contexts.
+- Contribute to fulfilling the Project's obligations to its Fiscal Sponsor.
 
 #### Conflict of Interest
 
@@ -157,52 +161,29 @@ conflict of interest they may have. Members with a conflict of interest in a
 particular issue may participate in Council discussions on that issue, but must
 recuse themselves from voting on the issue.
 
-## Institutional Partners and Funding
+## Fiscal Sponsor, Project Funds, and Project Sponsors
 
-The Steering Council is the primary leadership for The Project. No outside
-institution, individual or legal entity has the ability to own, control, usurp
-or influence The Project other than by participating in The Project as
-Contributors and Council Members. However, because institutions are the primary
-funding mechanism for The Project, it is important to formally acknowledge
-institutional participation in The Project. These are Institutional Partners.
+The Project is associated with a Fiscal Sponsor. The Fiscal Sponsor maintains
+all legal an fiduciary responsibility for the Project and its employees.
+The current Fiscal Sponsor of the proejct is NumFOCUS Inc.
+The Steering Council will delegate one memebr to be the official liason with
+the Fiscal Sponsor.
 
-An Institutional Contributor is any individual Project Contributor who
-contributes to The Project as part of their official duties at an Institutional
-Partner sustained over at least six months. Likewise, an Institutional Council
-Member is any Project Steering Council Member who contributes to The Project as
-part of their official duties at an Institutional Partner.
+The Fiscal Sponsor provides banking services to the Project and maintains a
+dedicated bank account for the Project (Project Funds). The Project may obtain
+funds from donations, grants, fees, and services. Any use of Project Funds must
+be approved by a majority vote of the Steering Council.
 
-With these definitions, an Institutional Partner is any recognized legal entity
-anywhere in the world that employs at least one Institutional Contributor or
-Institutional Council Member. Institutional Partners can be for-profit or
-non-profit entities.
+Individuals or institutions who make donations to the project (cash or in-kind)
+will be acknlowedged as offical Project Sponsors.
+The Steering Council may choose to define specific sponsorship tiers and mechanisms of
+acknolwedgement of Project Sponsors via a Sponsorship Policy.
+The Sponsorship Policy is not considered part of this governance document.
 
-Institutions become eligible to become an Institutional Partner by employing
-individuals who actively contribute to The Project as part of their official
-duties. To state this another way, the only way for an Institutional Partner to
-influence The Project is by actively contributing to the open development of The
-Project, on equal terms with any other member of the community of Contributors
-and Council Members. Merely using Project Software or Services in an
-institutional context does not allow an entity to become an Institutional
-Partner. Financial gifts do not enable an entity to become an Institutional
-Partner. Once an institution becomes eligible for Institutional Partnership,
-the Steering Council must nominate and approve the Partnership.
-
-If an existing Institutional Partner no longer has a contributing employee, they
-will be given a one-year grace period for other employees to begin contributing.
-
-An Institutional Partner is free to pursue funding for their work on The Project
-through any legal means, though the Institutional Partner is obliged to inform
-the Steering Council of any such decisions. This could involve a non-profit
-organization raising money from private foundations and donors or a for-profit
-company building proprietary products and services that leverage Project
-Software and Services. Funding acquired by Institutional Partners to work on The
-Project is called Institutional Funding. However, no funding obtained by an
-Institutional Partner can override the decisions of the Steering Council. If a
-Partner has funding to do Project work and the Council decides to not pursue
-that work as a project, the Partner is free to pursue it on their own. However,
-in this situation, that part of the Partner’s work will not be under The Project
-umbrella.
+The Steering Council is the primary leadership for The Project. 
+No outside sponsor, institution, individual or legal entity has the ability to own,
+control, usurp or influence The Project other than by participating in the Project
+as Contributors and Council Members.
 
 ## Changing the Governance Documents
 
