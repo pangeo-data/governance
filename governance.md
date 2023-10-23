@@ -165,8 +165,8 @@ recuse themselves from voting on the issue.
 
 The Project is associated with a Fiscal Sponsor. The Fiscal Sponsor maintains
 all legal an fiduciary responsibility for the Project and its employees.
-The current Fiscal Sponsor of the proejct is NumFOCUS Inc.
-The Steering Council will delegate one memebr to be the official liason with
+The current Fiscal Sponsor of the project is NumFOCUS Inc.
+The Steering Council will delegate one member to be the official liaison with
 the Fiscal Sponsor.
 
 The Fiscal Sponsor provides banking services to the Project and maintains a
@@ -175,9 +175,9 @@ funds from donations, grants, fees, and services. Any use of Project Funds must
 be approved by a majority vote of the Steering Council.
 
 Individuals or institutions who make donations to the project (cash or in-kind)
-will be acknlowedged as offical Project Sponsors.
+will be acknowledged as official Project Sponsors.
 The Steering Council may choose to define specific sponsorship tiers and mechanisms of
-acknolwedgement of Project Sponsors via a Sponsorship Policy.
+acknowledgement of Project Sponsors via a Sponsorship Policy.
 The Sponsorship Policy is not considered part of this governance document.
 
 The Steering Council is the primary leadership for The Project. 
