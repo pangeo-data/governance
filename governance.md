@@ -164,7 +164,7 @@ recuse themselves from voting on the issue.
 ## Fiscal Sponsor, Project Funds, and Project Sponsors
 
 The Project is associated with a Fiscal Sponsor. The Fiscal Sponsor maintains
-all legal an fiduciary responsibility for the Project and its employees.
+all legal and fiduciary responsibility for the Project and its employees.
 The current Fiscal Sponsor of the project is NumFOCUS Inc.
 The Steering Council will delegate one member to be the official liaison with
 the Fiscal Sponsor.
