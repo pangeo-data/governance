@@ -14,7 +14,7 @@ There are two ways to sponsor the Project:
 
   When making an in-kind donation, the sponsor should notify NumFocus of the donation and quantify the value of the in-kind donation. (Such donations are tax deductible for the sponsor.)
 
-The Steering Council or NumFOCUS may reject sponsorship offers which do not align with the Project values or mission.
+The Steering Council or NumFOCUS may reject sponsorship offers that do not align with the Project values or mission.
 
 ## Relationship between the Project and Sponsors
 
