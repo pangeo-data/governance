@@ -5,7 +5,7 @@ Now that Pangeo has a 501c3 fiscal sponsor, it can receive donations. Individual
 ## Types of Sponsorship
 
 There are two ways to sponsor the Project:
-1. Direct financial contribution - a direct donation made via NumFocus.
+1. Direct financial contribution - a direct donation made via [NumFocus](https://numfocus.org/donate).
 2. In-kind contribution - goods or services provided to the project in support of its activities. Examples of in-kind contributions include:
 
    - Personnel time dedicated to project support and administration. This excludes work on the project by Steering Council members.
