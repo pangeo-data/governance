@@ -12,7 +12,7 @@ There are two ways to sponsor the Project:
    - Computers, cloud credits, or other IT-related services paid for by the sponsor on behalf of the project.
    - Access to facilities such as office space, meeting space, or shared conference booths.
 
-  When making an in-kind donation, the sponsor should notify NumFocus of the donation and quantify the value of the in-kind donation. (For donors in the United States, such-donations are tax-deductible to the extent provided by law. As with any donation, donors should consult with their tax adviser about their particular tax situation.)
+  When making an in-kind donation, the sponsor should notify NumFocus of the donation and quantify the value of the in-kind donation. (For donors in the United States, such donations are tax-deductible to the extent provided by law. As with any donation, donors should consult with their tax adviser about their particular tax situation.)
 
 The Steering Council or NumFOCUS may reject sponsorship offers that do not align with the Project values or mission.
 
