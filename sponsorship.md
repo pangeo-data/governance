@@ -28,7 +28,7 @@ The project prefers unrestricted contributions, to be used at the discretion of 
 Restricted / conditional contributions, including in-kind donations and more complex partnership offers, will be reviewed and approved on a case-by-case basis by the Steering Council.
 To support work in a specific direction, grants are the preferred mechanism. 
 
-_Sponsorship does not imply any sort of endorsement by the Project of the Sponsor’s products or services._ While the Sponsor may publicly acknowledge its sponsorship, the sponsor may not use the Pangeo name or logo in its marketing materials in a way that  suggests such endorsement.
+_Sponsorship does not imply any sort of endorsement by the Project of the Sponsor’s products or services._ While the Sponsor may publicly acknowledge its sponsorship, the sponsor may not use the Pangeo name or logo in its marketing materials in a way that suggests such endorsement.
 
 ## Sponsorship Tiers
 
