@@ -1,6 +1,6 @@
 # Pangeo Sponsorship Policy
 
-Now that Pangeo has a 501c3 fiscal sponsor, it can receive donations. Individuals or institutions who make donations to the project are **Project Sponsors**. The purpose of this document is to define the relationship between the Project and Project Sponsors.
+Now that Pangeo (here on out referred to as "the Project") has a 501(c)(3) fiscal sponsor, it can receive donations. Individuals or institutions who make donations to the project are **Project Sponsors**. The purpose of this document is to define the relationship between the Project and Project Sponsors.
 
 ## Types of Sponsorship
 
@@ -18,17 +18,17 @@ The Steering Council or NumFOCUS may reject sponsorship offers that do not align
 
 ## Relationship between the Project and Sponsors
 
-The sponsorship relationship should be mutually beneficial to the Project and the Sponsor. The benefits of sponsorship to the Project are straightforward: more resources with which to achieve goals identified in the Project Roadmap and Project Mission. Some of the benefits to the Sponsor are:
+The sponsor-project relationship should be mutually beneficial to the Project and the Sponsor. The benefits of sponsorship to the Project are straightforward: more resources to achieve goals identified in the [roadmap](https://pangeo.io/roadmap.html) and [mission](https://pangeo.io/about.html#mission-statement). Some of the benefits to the Sponsor are:
 - Advancing the Project (which may be aligned with the sponsor’s goals and values)
 - Enhancing the Sponsor’s image via association with the Project
 - Reaching potential customers or clients via association with Project
 
 Sponsorship does not create any ability for the Sponsor to influence the Project governance or decision making, which remains solely with the Steering Council (with oversight from the NumFOCUS board for certain types of decisions).
-The project prefers unrestricted contributions, to be used at the discretion of the Steering Council to further the Project mission and roadmap.
+The Project prefers unrestricted contributions, to be used at the discretion of the Steering Council to further the Project mission and roadmap.
 Restricted / conditional contributions, including in-kind donations and more complex partnership offers, will be reviewed and approved on a case-by-case basis by the Steering Council.
 To support work in a specific direction, grants are the preferred mechanism. 
 
-_Sponsorship does not imply any sort of endorsement by the Project of the Sponsor’s products or services._ While the Sponsor may publicly acknowledge its sponsorship, the sponsor may not use the Pangeo name or logo in its marketing materials in a way that suggests such endorsement.
+_Sponsorship does not imply any sort of endorsement by the Project of the Sponsor’s products or services._ While the Sponsor may publicly acknowledge its sponsorship, the Sponsor may not use the Pangeo name or logo in its marketing materials in a way that suggests such endorsement.
 
 ## Sponsorship Tiers
 
@@ -37,8 +37,8 @@ Sponsorship tiers will likely evolve as the project matures. As of Oct 19, 2023,
 | Tier | Minimum contribution | Benefits |
 |---|---|---|
 | **bronze** | $1000 - $5000 | Acknowledgment on the Project website. |
-| **silver** | $5000 - $10,000 | Acknowledgement on the Project website. Announcement on the Project social media. |
-| **gold** | > $10,000 | Acknowledgement on the Project website. Announcement on the Project social media. Prominent placement and acknowledgement at Project events (e.g. AGU booth) |
+| **silver** | $5000 - $10,000 | Acknowledgement on the Project website. Announcement on the Project's social media. |
+| **gold** | > $10,000 | Acknowledgement on the Project website. Announcement on the Project's social media. Prominent placement and acknowledgement at Project events (e.g. AGU booth) |
 
 ## Conflict of Interest
 
