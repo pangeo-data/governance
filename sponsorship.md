@@ -21,7 +21,7 @@ The Steering Council or NumFOCUS may reject sponsorship offers that do not align
 The sponsorship relationship should be mutually beneficial to the Project and the Sponsor. The benefits of sponsorship to the Project are straightforward: more resources with which to achieve goals identified in the Project Roadmap and Project Mission. Some of the benefits to the Sponsor are:
 - Advancing the Project (which may be aligned with the sponsor’s goals and values)
 - Enhancing the Sponsor’s image via association with the Project
-- Reaching potential customers or clients via association with Project
+- Reaching potential customers or clients via association with the Project
 
 Sponsorship does not create any ability for the Sponsor to influence the Project governance or decision making, which remains solely with the Steering Council (with oversight from the NumFOCUS board for certain types of decisions).
 The project prefers unrestricted contributions, to be used at the discretion of the Steering Council to further the Project mission and roadmap.
