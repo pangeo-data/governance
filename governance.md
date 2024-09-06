@@ -18,7 +18,7 @@ Examples of Project Software include the tools and configurations related to the
 deployment of computational infrastructure. The Services run by The Project
 consist of public websites and web-services that are hosted under the pangeo.io
 or pangeo-data.org domains. Examples of Project Services include the Pangeo
-website (https://pangeo-data.org and https://pangeo.io), Pangeo-JupyterHub
+website (https://pangeo.io), Pangeo-JupyterHub
 deployments (https://pangeo.pydata.org and https://pangeo.informaticslab.co.uk),
 and the Pangeo-Binder (https://binder.pangeo.io).
 
