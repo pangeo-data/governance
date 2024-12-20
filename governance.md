@@ -57,7 +57,8 @@ Council is to ensure, through taking input from the Community, the long-term
 well-being of The Project, both technically and as a community. As The Project
 draws its strength from representing the Community, it strives to avoid
 fragmentation of the Community into separate projects, if possible.
-The Steering Council will maintain a minimum of three members.
+The Steering Council will maintain a minimum of three members and a maximum
+of fifteen members.
 
 During the everyday Project activities, Council Members participate in all
 discussions, code review and other Project activities as peers with all other
