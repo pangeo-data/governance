@@ -137,7 +137,7 @@ they were active in the Council.
 #### Expectations for Council Members
 
 Steering council members are expected to commit to the following activities:
-- Attend a one-hour steering council meeting every quarter.
+- Attend a one-hour steering council meeting each fall.
 - Respond in a timely manner to steering-council-related correspondence.
 - Act as an ambassador for the project in professional contexts.
 - Contribute to fulfilling the Project's obligations to its Fiscal Sponsor.
